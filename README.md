@@ -18,7 +18,7 @@ For over **14 years**, I served as an **IT and Agricultural Management Consultan
 
 In **2017**, I embarked on an academic odyssey in computer science at the **Hellenic Open University**. This five-year journey, synchronized with my full-time commitment, culminated in my graduation in the summer of **2022**.
 
-💥 **January 2023** marked a pivotal moment as I bid farewell to my corporate role to wholeheartedly embrace my passion. Since then, I've been meticulously immersing myself in a myriad of tech domains, including programming languages and frameworks including Java, Spring Boot, JavaScript, React.js, HTML, CSS, Python, and MySQL. Additionally, I am adept at working with API integration and have a sound knowledge of Linux operating systems. Furthermore, I possess hands-on experience in creating and managing cloud infrastructure using Amazon Web Services (AWS).
+💥 **January 2023** marked a pivotal moment as I bid farewell to my corporate role to wholeheartedly embrace my passion. Since then, I've been meticulously immersing myself in a myriad of tech domains, programming languages and frameworks including **Java**, **Spring Boot**, **JavaScript**, **React.js**, **HTML**, **CSS**, **Python**, and **MySQL**. Additionally, I am adept at working with **API** integration and have a sound knowledge of **Linux** operating systems. Furthermore, I possess hands-on experience in creating and managing cloud infrastructure using **Amazon Web Services** (AWS).
 
 ## The Path Forward
 
