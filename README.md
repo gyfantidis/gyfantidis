@@ -1,4 +1,4 @@
-# Hi there! I'm Giannis Yfantidis 👋
+# Hi there! I'm Giannis Yfantidis 👋.
 
 Welcome to my coding journey! 💾 From a deep-rooted personal passion, I've journeyed through the intricate realms of technology, and it's my pleasure to share a bit about myself with you.
 
