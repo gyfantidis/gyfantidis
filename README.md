@@ -32,7 +32,7 @@ As I stand at the intersection of experience and aspiration, my sights are firml
 <p align="left">
 <a href="https://www.linkedin.com/in/giannis-yfantidis-517654116/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/giannisy1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://yfantidis.net/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/011/356/467/small/internet-web-icon-in-flat-style-website-globe-sign-symbol-vector.jpg" alt="Website" height="30" width="40" /></a> 
+<a href="https://g-yfantidis.gr/" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/011/356/467/small/internet-web-icon-in-flat-style-website-globe-sign-symbol-vector.jpg" alt="Website" height="30" width="40" /></a> 
 </p>
 
 
